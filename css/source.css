@@ -8,7 +8,7 @@ $black-light: #222;
 $grey: #aeb4b9;
 $grey-bold: #777;
 $grey-light: #cacdd0;
-$scooter: #22C5E5;
+$scooter: #18902e;
 $content-width: 60%;
 $content-max-width: 700px;
 $mobile-content-width: 80%;
@@ -41,6 +41,15 @@ body {
   position: relative;
   box-sizing: border-box;
   color: $black-light;
+}
+
+::-moz-selection {
+    background: $scooter;
+    color: #fff;
+}
+::selection {
+    background: $scooter;
+    color: #fff;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
@@ -98,11 +107,12 @@ blockquote {
     background-color: #eee;
     font-family: Courier New;
     font-size: 16px;
-    padding: 2px;
+    padding: 3px 6px 1px;
+    font-weight: bold;
 }
 
-.key:hover {
-    text-decoration: underline;
+a.key:hover {
+    color: #2ab542;
 }
 
 .footer {
