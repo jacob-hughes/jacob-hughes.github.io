@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/jakehughes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jakehughes.uk
+  * I am jakehughes (https://keybase.io/jakehughes) on keybase.
+  * I have a public key with fingerprint 3ECD 9CA7 F3A4 E6EA 6A90  E465 B516 6D80 D532 7008
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019f979ff7139427ec9d330102cee64e96e07df799384949b65b2bc56f99d9d67d0a",
+      "fingerprint": "3ecd9ca7f3a4e6ea6a90e465b5166d80d5327008",
+      "host": "keybase.io",
+      "key_id": "b5166d80d5327008",
+      "kid": "01019f979ff7139427ec9d330102cee64e96e07df799384949b65b2bc56f99d9d67d0a",
+      "uid": "e2db24ed8f734c69362f2ef741bc5919",
+      "username": "jakehughes"
+    },
+    "service": {
+      "hostname": "jakehughes.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1518314519,
+  "expire_in": 157680000,
+  "prev": "9cc1c3c17ffaecf4a687d6bcaa678fbbc4c2017aa84c53ffa631d5826e2a37fd",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkmtMFFcYhne5ROQSN2kwXsDqIFZdIHO/rGhK0SqGNKItVrSSuZyBYXFm2ZkF
+kVAIlDQiIkHBGwWlxdqK0IIFLQg1tCIIRbEbKJpYmtpQIpEu1ZW21s6Q+qv92fPn
+5Lzned/zfV9ORYivKcAcN1jU2rL9lQfmm79wppSCj1blQZwi5EK2PMgO5jaQKQBV
+S7VLAmSDYARGGJGhGFGkEIzBUQrwjIBhuo7yAJA4YEgAU4JIMQxG4wzOcCTBoRxP
+kCLDCIxAUgLMQlGQKMlpwOlwSrKmx2KAFxiepUSMxQEJWJJlYIDrTgIhSYGGBQJD
+KRimdWO6ohoOvTiOVUGMpOiafkidK+8/+P+5btdcHEAFDsWBQIsUhvMkg5GoiAKR
+whHdwSCMAarAKbP7gE5nsHaQ7kpLByqUHwXperbEA2O0Ri//YmJcdt3ucCqawiuZ
++lW6pjlUm2HVch0GmwO41H9SUjlJFvRR6o5s4FQlRYZsiE7ymmTEIgRCYwhOIEwU
+BPY7JCdIlQyCoEga1pfxDsjWIxmeR3bzGI9QosgCXsRZkqYEkuNZlqRokeN4nEdh
+hGJZGucJTIdIDBEIGiUBymKUKEBGY1myAtkovU42Tc9UpTSZ1VxOAOUHHvTB/Ezm
+AFP4whV+u5M6rn37x4qeiT+LK158P38f4++ZAudbXih9BQv+WrM2cyZhwG9Rdd+X
+H3vvlx3Wgv3XRXYvSnoQ7904Wu2bGPHNdNOT3JJYb++jhLKmt1Ksbnv52uTB/UVx
+JNQSao33YJbF1HudfYjgGQcNYRM7rP6fxrn2Fm26kPHmvPf7NozWWk6lvzv7YUPt
+8bEWt//3n3eTCycJS9brj38d8559Y+ezvROzthpza0Zzwk/XT0f5uAk3Usr3jq8P
+7q8eGiqKGD64XIN2TPfLPDzmDl3qmI2uqwmfqRU/Aa813MObjzezSdfb09qs9pTp
+tnNbEsq3Pv752NP6bsR8fnnuuhxrdG3IQMy4r1ct3FyW77sycs+JH+5NPT9w2jOZ
+GNxKyN6JhqLQzmXg1bywvKtb1NLirwKjk7VGZM+tgMDKxCvx22Iu3tn4RUoleVfe
+Za7aOpMzMnxElWMvbIjtffj0qFBRv7i9TQ2fX+epe9RQMjkzEXZuyn2jELI0JpXv
+rOFMo43VXdKygVURWk/L0gPtEdKYT1B9jVIYU4Vad3U/I7ZZtp9v6lRGhgv6mQ++
+Vl9KfH7r9pKHrn233es33S/bnDVZExQ0onrOPOnqCuhgehcM26dye97pOzMuew7l
+n+ROXEu+M3hozeBvlaUlifMukXfNreTRy7VXA+gl3/14qmMo0nWkmCquiqpK+f3k
+6ggJVH12aShEMx2OvrxSufnyxRtX3jYN/w0=
+=p/dG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jakehughes
+
+==================================================================
